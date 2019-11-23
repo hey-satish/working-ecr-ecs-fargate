@@ -1,0 +1,3 @@
+/home/ec2-user/terraform-ecs-fargate/terraform/address-service/src/main/java/com/org/address/domain/AddressResource.java
+/home/ec2-user/terraform-ecs-fargate/terraform/address-service/src/main/java/com/org/address/AddressServiceApplication.java
+/home/ec2-user/terraform-ecs-fargate/terraform/address-service/src/main/java/com/org/address/domain/Address.java
